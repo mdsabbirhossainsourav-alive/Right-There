@@ -10,7 +10,9 @@ For each test case, output on a new line, YES, if Chef can host the party and NO
 Each character of the output may be printed in either uppercase or lowercase. That is, the strings NO, no, nO, and No will be treated as equivalent.
 ## Constraints
 1 ≤ T ≤ 100
+
 1 ≤ N, X ≤ 10
+
 Sample 1:
 Input
 4
