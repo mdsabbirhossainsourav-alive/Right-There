@@ -14,7 +14,7 @@ Each character of the output may be printed in either uppercase or lowercase. Th
 1 ≤ N, X ≤ 10
 
 Sample 1:
-Input
+## Input
 4
 
 2 5
